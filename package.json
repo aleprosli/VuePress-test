@@ -1,0 +1,19 @@
+{
+  "name": "Blog",
+  "version": "0.0.1",
+  "description": "Learning purpose. Creating a blog using VuePress",
+  "main": "index.js",
+  "authors": {
+    "name": "Aliff",
+    "email": "aliff.rosli96@gmail.com"
+  },
+  "repository": "/Blog",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
